@@ -1,0 +1,7 @@
+# 依赖版本（Python 3.9+）
+requests>=2.28
+numpy>=1.23
+rdkit>=2022.09
+meeko>=0.8.0
+vina>=1.2.5
+gemmi>=0.6.0

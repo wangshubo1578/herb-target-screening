@@ -1,0 +1,58 @@
+{
+  "_comment": "中药单体反向筛选的黑名单：命中即视为非中草药特有成分而剔除。匹配时做小写+去连接符归一。",
+  "endogenous": [
+    "17-beta-estradiol", "17beta-oestradiol", "estradiol", "estrone", "estriol",
+    "testosterone", "dihydrotestosterone", "progesterone", "cortisol", "corticosterone",
+    "cholesterol", "dehydroepiandrosterone", "androstenedione", "aldosterone",
+    "glucose", "fructose", "sucrose", "lactose", "maltose", "galactose",
+    "uric acid", "urea", "creatinine", "bilirubin", "heme", "hemin"
+  ],
+  "amino_acids": [
+    "glycine", "alanine", "valine", "leucine", "isoleucine", "proline",
+    "phenylalanine", "tryptophan", "methionine", "serine", "threonine",
+    "cysteine", "cystine", "tyrosine", "asparagine", "glutamine", "lysine",
+    "arginine", "histidine", "aspartic acid", "glutamic acid", "aspartate",
+    "glutamate", "ornithine", "citrulline", "taurine", "creatine"
+  ],
+  "ions_solvents": [
+    "water", "ethanol", "methanol", "acetone", "chloroform", "acetonitrile",
+    "dimethyl sulfoxide", "dmso", "hexane", "benzene", "toluene", "diethyl ether",
+    "sodium", "potassium", "calcium", "magnesium", "chloride", "zinc", "iron",
+    "copper", "manganese", "phosphate", "sulfate", "nitrate", "ammonia",
+    "carbon dioxide", "oxygen", "nitrogen", "hydrogen"
+  ],
+  "synthetic_drugs": [
+    "isoniazid", "aspirin", "metformin", "ibuprofen", "warfarin", "penicillin",
+    "caffeine", "nicotine", "paracetamol", "acetaminophen", "diclofenac",
+    "indomethacin", "captopril", "simvastatin", "atorvastatin", "losartan",
+    "amoxicillin", "ciprofloxacin", "doxorubicin", "cisplatin", "5-fluorouracil",
+    "dexamethasone", "prednisone", "hydrocortisone"
+  ],
+  "vitamins_cofactors": [
+    "ascorbic acid", "vitamin c", "retinol", "retinoic acid", "thiamine",
+    "riboflavin", "niacin", "nicotinamide", "nicotinic acid", "pantothenic acid",
+    "pyridoxine", "biotin", "folic acid", "folate", "cobalamin", "tocopherol",
+    "menadione", "ubiquinone", "coenzyme a", "nad", "nadp", "fad", "atp", "adp",
+    "amp", "gtp", "camp", "cgmp", "adenosine", "guanosine", "inosine", "s-adenosylmethionine"
+  ],
+  "fatty_acids_simple": [
+    "palmitic acid", "stearic acid", "oleic acid", "linoleic acid", "linolenic acid",
+    "myristic acid", "lauric acid", "arachidonic acid", "glycerol", "sorbitol",
+    "mannitol", "xylitol"
+  ],
+  "voc_general": [
+    "formaldehyde", "acetaldehyde", "formic acid", "acetic acid", "lactic acid",
+    "citric acid", "malic acid", "succinic acid", "fumaric acid", "oxalic acid",
+    "pyruvic acid", "propylene glycol", "ethylene glycol"
+  ],
+  "heavy_metals_toxins": [
+    "arsenic", "arsenite", "arsenate", "lead", "mercury", "cadmium", "chromium",
+    "3,4-benzopyrene", "benzo(a)pyrene", "aflatoxin", "aflatoxin b1",
+    "2-propenal", "acrolein", "acrylamide", "benzene", "toluene", "xylene"
+  ],
+  "common_metabolites": [
+    "acetovanillone", "apocynin", "salicylic acid", "benzoic acid", "cinnamic acid",
+    "vanillic acid", "gallic acid", "protocatechuic acid", "chlorogenic acid",
+    "indole", "indole-3-acetic acid", "skatole", "putrescine", "spermine", "spermidine"
+  ]
+}

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: herb-target-screening
+type: software
+message: >-
+  If you use this software in your research, please cite it
+  using the metadata below.
+  如果你在研究中使用了本工具，请按以下元数据引用。
+authors:
+  - given-names: "Your Name"          # ← 发布前改成你的名字
+    website: "https://github.com/your-username"   # ← 改成你的 GitHub 主页
+abstract: >-
+  A Claude Code / CodeBuddy Agent Skill for reverse screening of
+  traditional Chinese medicine (TCM) monomer compounds against a
+  given protein target. It searches HERB and TCMSP, cleans and
+  deduplicates candidates, runs batch molecular docking with
+  AutoDock Vina, and reports ADMET properties and clinical trials
+  of the best hit.
+keywords:
+  - traditional-chinese-medicine
+  - molecular-docking
+  - drug-discovery
+  - network-pharmacology
+  - bioinformatics
+  - autodock-vina
+license: MIT
+repository-code: "https://github.com/your-username/herb-target-screening"
+version: "1.0.0"
+date-released: "2026-10-06"
