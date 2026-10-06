@@ -6,8 +6,8 @@ message: >-
   using the metadata below.
   如果你在研究中使用了本工具，请按以下元数据引用。
 authors:
-  - given-names: "wangshubo1578"          # ← 发布前改成你的名字
-    website: "https://github.com/wangshubo1578"   # ← 改成你的 GitHub 主页
+  - given-names: "wangshubo1578"          
+    website: "https://github.com/wangshubo1578"   
 abstract: >-
   A Claude Code / CodeBuddy Agent Skill for reverse screening of
   traditional Chinese medicine (TCM) monomer compounds against a
