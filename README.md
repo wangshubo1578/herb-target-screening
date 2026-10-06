@@ -130,7 +130,7 @@ herb-target-screening/
 @software{herb_target_screening_2026,
   title   = {herb-target-screening: TCM monomer reverse screening
              and molecular docking Agent Skill},
-  author  = {Your Name},                 % ← 改成你的名字
+  author  = {wangshubo1578},                 
   year    = {2026},
   url     = {https://github.com/<your-username>/herb-target-screening},
   license = {MIT}
@@ -154,4 +154,4 @@ herb-target-screening/
 
 ## 📄 许可证
 
-[MIT](LICENSE) © 2026 <Your Name>
+[MIT](LICENSE) © 2026 <wangshubo1578>
