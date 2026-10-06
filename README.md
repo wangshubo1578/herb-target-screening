@@ -45,7 +45,7 @@ with batch molecular docking (AutoDock Vina), ADMET and clinical-trial reporting
 
 ```bash
 # Claude Code
-git clone https://github.com/<your-username>/herb-target-screening.git \
+git clone https://github.com/wangshubo1578/herb-target-screening.git \
     ~/.claude/skills/herb-target-screening
 
 # CodeBuddy
@@ -132,7 +132,7 @@ herb-target-screening/
              and molecular docking Agent Skill},
   author  = {wangshubo1578},                 
   year    = {2026},
-  url     = {https://github.com/<your-username>/herb-target-screening},
+  url     = {https://github.com/wangshubo1578/herb-target-screening},
   license = {MIT}
 }
 ```
